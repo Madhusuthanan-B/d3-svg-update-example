@@ -1,0 +1,21 @@
+#control-wrapper {
+  margin: 10px;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  margin: 5px;
+}
+
+#boxes {
+  display: flex;
+
+  height: 500px;
+  width: 500px;
+}
+
+button:hover {
+  cursor: pointer;
+}
